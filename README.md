@@ -56,11 +56,11 @@ VinstechmyAutoscriptWebsocketLite
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189510325-482a7fb3-5002-459d-867f-6e573b2fb45e.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/189537743-c96f6aad-2080-4f4b-80c8-588387818c00.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189510353-4ba84ac1-2db7-45a7-be33-e2311ec0df0a.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/189537802-44dd8bc5-c7e3-43a9-b512-56d809a1eb23.png" width="400" title="Autoscript-Lite">
 </p>
 
