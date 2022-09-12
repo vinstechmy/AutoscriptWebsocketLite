@@ -64,3 +64,9 @@ VinstechmyAutoscriptWebsocketLite
 <img src="https://user-images.githubusercontent.com/82468311/189537802-44dd8bc5-c7e3-43a9-b512-56d809a1eb23.png" width="400" title="Autoscript-Lite">
 </p>
 
+## ⏩ DONATE ⏪
+<b>
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/189573622-9b165a67-4ae7-4354-bd8d-5fad54c266fa.JPG" width="300" title="Autoscript-Lite">
+<b>
