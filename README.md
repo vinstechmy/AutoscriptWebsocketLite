@@ -70,12 +70,12 @@ VinstechmyAutoscriptWebsocketLite
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189537743-c96f6aad-2080-4f4b-80c8-588387818c00.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/193444516-2be1ded7-6d0b-43b7-9f3b-9ebbfc0fc27b.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189537802-44dd8bc5-c7e3-43a9-b512-56d809a1eb23.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/193444564-059a7f5f-4c1c-45d3-8ddb-aaf0205e70ee.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ BUY ME A COFFEE ? ⏪
