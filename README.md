@@ -50,12 +50,15 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
 ✅ BACKUP & RESTORE <br>
 <br>
 ♦️ For Debian 10 Only For First Time Installation (Update Repo) <br>
-<br>
-  
+
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
- 
+  ♦️ For Ubuntu 18.04 Only For First Time Installation (Update Repo) <br>
+  
+  ```html
+ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
+ ```
 ♦️ Installation Link<br>
 
   ```html
