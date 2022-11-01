@@ -15,7 +15,7 @@
  AUTOSCRIPT WEBSOCKET LITE INI SESUAI UNTUK TRICK MERAH - KUNING - BIRU - BIRU MUDA (WSS METHOD) <br>
  <br>
  1. LINK CONFIG SIAP GENERATE UNTUK TELCO MERAH (MX) - KUNING (DG) - BIRU (CM) - BIRU MUDA (YS) (WSS METHOD) <br>
- 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA DI TELEGRAM : @Vinstechmy <br>
+ 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA DI <a href="https://t.me/Vinstechmy" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>  <br>
 <br>
 SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS)<br>
 <br>
